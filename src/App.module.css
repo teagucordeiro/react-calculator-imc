@@ -67,4 +67,13 @@ div.container .leftSide  button:hover {
 div.container .rightSide {
   margin-left: 40px;
   flex: 1;
+  display: flex;
 }
+
+div.container .rightSide .grid {
+  flex: 1;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+
