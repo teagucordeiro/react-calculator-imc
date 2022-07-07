@@ -43,7 +43,7 @@ The following tools were used in the construction of the project:
 ### :computer: Deploy
 
 <h4 align="center"> 
-	See the running project: <a href="https://calculator-pkpwp3web-thiagocordeiro.vercel.app/">Calculator IMC</a>
+	See the running project: <a href="https://calculator-imc-gilt.vercel.app/">Calculator IMC</a>
 </h4>
 
 ### :dvd: **Running the Project**
