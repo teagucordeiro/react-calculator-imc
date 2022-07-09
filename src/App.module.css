@@ -77,3 +77,8 @@ div.container .rightSide .grid {
   gap: 20px;
 }
 
+div.container .rightSide .rightBig {
+  flex: 1;
+  display: flex;
+  
+}
