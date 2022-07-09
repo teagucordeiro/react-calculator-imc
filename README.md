@@ -37,7 +37,7 @@ The following tools were used in the construction of the project:
 ### :triangular_ruler: **Project Status**
 
 <h4 align="center"> 
-	👨‍🏫 The project is under development!
+	👨‍🏫 The project has already been completed!
 </h4>
 
 ### :computer: Deploy
